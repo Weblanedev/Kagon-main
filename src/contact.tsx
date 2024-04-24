@@ -187,7 +187,7 @@ const Contact = () => {
                 Address
               </h4>
               <p className="text-green-500 leading-normal">
-                Lagos, Nigeira
+               10 Finance Rd, Maple Wood Estate, Agege, Lagos
               </p>
             </div>
           </div>
